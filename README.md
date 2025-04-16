@@ -1,13 +1,13 @@
 # Power-BI-Sales-Dashboard-Project
-This project showcases a comprehensive Sales Dashboard built using Power BI, designed to help businesses monitor key performance metrics, analyze trends, and support data-driven decisions.
+This project showcases a comprehensive Sales Dashboard built using **Power BI**, designed to help businesses monitor **key performance metrics**, **analyze trends**, and **support data-driven decisions**.
 
 ## 📊 Overview
-The dashboard is built upon a star schema data model, combining a cleaned and transformed sales dataset with various dimension tables to allow for powerful insights and seamless user interaction.
+The dashboard is built upon a **star schema** data model, combining a cleaned and transformed sales dataset with various dimension tables to allow for powerful insights and seamless user interaction.
 
 ## 🧹 Data Preparation 
 - Cleaned and transformed raw sales data using **Power Query**.
 
-- Removed duplicates and filtered irrelevant data.
+- Removed **duplicates** and filtered irrelevant data.
 
 - Created calculated columns and added custom keys for relationships.
 
@@ -25,24 +25,24 @@ The dashboard is built upon a star schema data model, combining a cleaned and tr
 - **Interactive** and **intuitive** visuals with actionable metrics.
 
 ## 🔧 Tools & Technologies 
-- Microsoft Power BI
+- **Microsoft Power BI**
 
-- DAX (Data Analysis Expressions)
+- **DAX** (Data Analysis Expressions)
 
-- Power Query (M Language)
+- **Power Query** (M Language)
 
-- Data modeling (Star Schema Design)
+- **Data modeling** (Star Schema Design)
 
 ## 📈 Features 
-- KPI Cards for Sales, Profit, Customers, and YoY Changes
+- **KPI Cards** for Sales, Profit, Customers, and YoY Changes
 
-- Custom YOY visuals with dynamic arrow indicators (▲▼)
+- Custom **YOY** visuals with dynamic arrow indicators (▲▼)
 
 - Line charts, bar graphs, and pie charts for visual storytelling
 
-- Drill-down capabilities for deeper analysis
+- **Drill-down** capabilities for deeper analysis
 
-- Segment analysis using external consumer data
+- **Segment analysis** using external consumer data
 
 
 ![1](https://github.com/user-attachments/assets/c195939c-bc1f-4f7f-a121-46b3b7a4669f)
