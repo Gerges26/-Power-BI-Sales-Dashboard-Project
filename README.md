@@ -44,3 +44,12 @@ The dashboard is built upon a star schema data model, combining a cleaned and tr
 
 - Segment analysis using external consumer data
 
+
+![1](https://github.com/user-attachments/assets/c195939c-bc1f-4f7f-a121-46b3b7a4669f)
+
+![2](https://github.com/user-attachments/assets/2e7e8928-32ad-4fcd-b570-0543aee821ab)
+
+![3](https://github.com/user-attachments/assets/55d16b5a-5d6b-48cc-8d0f-ae834b196ffd)
+
+
+
